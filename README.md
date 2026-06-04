@@ -1,4 +1,4 @@
-# 🦇 Batman Crime Predictor – Fighting Crime with AI  
+# Fighting Crime with AI  
 
 _"Because even Batman needs data to fight crime"_  
 

@@ -1,6 +1,4 @@
-# Fighting Crime with AI  
-
-_"Because even Batman needs data to fight crime"_  
+# Fighting Crime with AI   
 
 This project applies **Machine Learning** to analyze and predict crime patterns in the **City of Los Angeles**.  
 Inspired by Batman’s mission to fight crime, the project uses **real-world crime data** to build predictive models that classify crimes into **violent vs. non-violent** categories.  
@@ -13,8 +11,7 @@ The dataset used in this project is the official **[Crime Data from 2020 to Pres
 
 👉 **Only a sample dataset is uploaded here. Please download the full dataset from the official source above if you want to run the complete analysis.**
 
-🚀 **Try the Streamlit App here** [Batman Predictor: Fighting Crime With Ai](https://batman-predictor-fighting-crime-with-ai.streamlit.app/)
-
+🚀 **Try the Streamlit App here** 
 ---
 
 ## ⚙️ Project Workflow  
@@ -112,10 +109,5 @@ All trained models are saved as `.pkl` files inside the `Files/` directory.
 
 ---
 
-## 📝 Contact
-
-👩‍💻 LinkedIn: https://www.linkedin.com/in/menna-ateya
-
-📧 Email: mennaateya30@gmail.com
 
 🦇 Built with AI power — because Gotham deserves better.

@@ -8,11 +8,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit.components.v1 as components
 
-# ---------------------------------
-# Batman Theme (Dark Gotham Style)
+
 # ---------------------------------
 st.set_page_config(
-    page_title="🦇 Batman Crime Predictor",
+    page_title="🦇 Crime Predictor",
     layout="wide",
     initial_sidebar_state="auto"
 )

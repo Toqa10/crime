@@ -1,0 +1,13 @@
+# كود واحد بس - انسخيه وشغليه
+from google.colab import files
+import tensorflow as tf
+
+# نموذج صغير خفيف للاختبار
+model = tf.keras.Sequential([
+    tf.keras.layers.Input(shape=(224,224,3)),
+    tf.keras.layers.Flatten(),
+    tf.keras.layers.Dense(3, activation='softmax')
+])
+model.save('lung_cancer_model.h5')
+files.download('lung_cancer_model.h5')
+print("✅ تم التحميل! ارفعي الملف على GitHub")
